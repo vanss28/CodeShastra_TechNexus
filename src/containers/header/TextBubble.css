@@ -1,0 +1,50 @@
+/* TextBubble.css */
+
+.text-bubble {
+    position: relative;
+    background-color: #dcdcdc;
+    font-family: var(--font-family);
+    border-radius: 10px;
+    width: 150px;
+    font-size: 28px;
+    padding: 10px 15px;
+    margin-bottom: 30px;
+    opacity: 50%;
+    max-width: 70%;
+    margin-left: 200px;
+  }
+  
+  .text-bubble.left {
+    float: left;
+  }
+  
+  .text-bubble.right {
+    float: right;
+  }
+  
+  .text-bubble.left::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: -10px;
+    width: 0;
+    height: 0;
+    border: 10px solid transparent;
+    border-right-color: #dcdcdc;
+    border-left: 0;
+    margin-top: -10px;
+  }
+  
+  .text-bubble.right::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: -10px;
+    width: 0;
+    height: 0;
+    border: 10px solid transparent;
+    border-left-color: #dcdcdc;
+    border-right: 0;
+    margin-top: -10px;
+  }
+  
