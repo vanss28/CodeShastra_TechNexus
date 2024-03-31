@@ -1,0 +1,14 @@
+pillow
+dotenv
+transformers
+torch
+sentence-transformers
+SpeechRecognition
+pywin32
+requests
+youtube-search-python
+openai
+langchain
+pyllms
+vectorstore
+pyperclip

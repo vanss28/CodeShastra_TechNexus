@@ -1,0 +1,30 @@
+# Ignore .env files
+**/.env
+
+# Ignore update.txt files
+**/update.txt
+
+# Ignore prompt_answers directories
+**/prompt_answers/
+
+# Ignore __pycache__ directories
+**/__pycache__/
+
+# Ignore data directories
+**/data/
+
+# Ignore images directories
+**/images/
+
+# Ignore vectorstore directories
+**/vectorstore/
+
+# Ignore offload directories
+**/offload/
+
+# Ignore tempCodeRunnerFile.py files
+**/tempCodeRunnerFile.py
+
+# Ignore any files or directories starting with "env"
+**/env*
+**/Model/env*
