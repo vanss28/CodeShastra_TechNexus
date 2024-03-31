@@ -1,0 +1,1001 @@
+Jarvis,Values
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
+Jarvis, what time is it?
+Jarvis, check my email.
+Jarvis, what's in the news today?
+Jarvis, read the document named 'Quarterly Report'.
+Jarvis, open the file 'Presentation.ppt'.
+Jarvis, add the modified files to git.
+Jarvis, push the changes to the repository.
+Jarvis, what's on my calendar for today?
+Jarvis, play some music.
+Jarvis, remind me to call John at 3 PM.
+Jarvis, search for nearby pizza restaurants.
+Jarvis, set the thermostat to 72 degrees.
+Jarvis, turn off the lights in the living room.
+Jarvis, what's the weather like today?
+Jarvis, find a recipe for lasagna.
+Jarvis, send a message to Sarah saying 'Meeting is at 10'.
+Jarvis, schedule a meeting with the team next Monday at 9 AM.
+Jarvis, how's the traffic to downtown?
+Jarvis, order more coffee pods.
+Jarvis, play the latest episode of 'The Daily' podcast.
+Jarvis, set an alarm for 7 AM tomorrow.
+Jarvis, tell me a joke.
+Jarvis, how much battery is left on my laptop?
+Jarvis, translate 'Hello' to Spanish.
+Jarvis, dim the lights in the dining room.
+Jarvis, start a timer for 25 minutes.
+Jarvis, how do I make French toast?
+Jarvis, show me my health stats for today.
+Jarvis, lock the front door.
+Jarvis, play workout music playlist.
+Jarvis, find a yoga class near me.
+Jarvis, when is my next flight?
+Jarvis, where is my phone?
+Jarvis, book a table for two at an Italian restaurant tomorrow evening.
+Jarvis, how do I fix a leaky faucet?
+Jarvis, show me pictures of Bali.
+Jarvis, what are the top movies right now?
+Jarvis, create a shopping list.
+Jarvis, add 'go for a run' to my to-do list for tomorrow.
+Jarvis, what's my current heart rate?
+Jarvis, make a reservation for a spa day.
+Jarvis, is there a lunar eclipse this year?
+Jarvis, find me a recipe for a healthy smoothie.
+Jarvis, play the morning news.
+Jarvis, remind me to water the plants.
+Jarvis, turn on the security system.
+Jarvis, what are the latest tech news?
+Jarvis, find a good book to read.
+Jarvis, how do I reset my password?
+Jarvis, set up a video call with my team.
